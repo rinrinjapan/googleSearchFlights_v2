@@ -1,0 +1,64 @@
+45:08/05/22:2022 08:45:04 PM - INFO -TestGoogleSearch : go to google search home page
+45:08/05/22:2022 08:45:04 PM - INFO -TestGoogleSearch : go to google search flight result
+45:08/05/22:2022 08:45:04 PM - INFO -Google_Search_Home_Page : select departure
+45:08/05/22:2022 08:45:11 PM - INFO -Google_Search_Home_Page : select arrival
+45:08/05/22:2022 08:45:18 PM - INFO -Google_Search_Home_Page : pickup a way
+45:08/05/22:2022 08:45:18 PM - INFO -Google_Search_Home_Page : choose number customers
+45:08/05/22:2022 08:45:18 PM - INFO -Google_Search_Home_Page : pick up a date
+45:08/05/22:2022 08:45:21 PM - INFO -Google_Search_Home_Page : transfering to google search result page
+45:08/05/22:2022 08:45:22 PM - INFO -Google_Search_Result_Page : Click on stops button
+45:08/05/22:2022 08:45:26 PM - INFO -Google_Search_Result_Page : click on 2 stops searching
+45:08/05/22:2022 08:45:30 PM - INFO -Google_Search_Result_Page : click on non stop searching
+45:08/05/22:2022 08:45:33 PM - INFO -Google_Search_Result_Page : click on any stops searching
+45:08/05/22:2022 08:45:36 PM - INFO -Google_Search_Result_Page : click on 1 stop searching
+45:08/05/22:2022 08:45:39 PM - INFO -Google_Search_Result_Page : click on clear stop
+45:08/05/22:2022 08:45:42 PM - INFO -Google_Search_Result_Page : click on close pop -up
+45:08/05/22:2022 08:45:46 PM - INFO -Google_Search_Result_Page : we are going to see more flights yeah
+47:08/05/22:2022 08:47:42 PM - INFO -TestGoogleSearch : go to google search home page
+47:08/05/22:2022 08:47:42 PM - INFO -TestGoogleSearch : go to google search flight result
+47:08/05/22:2022 08:47:42 PM - INFO -Google_Search_Home_Page : select departure
+47:08/05/22:2022 08:47:49 PM - INFO -Google_Search_Home_Page : select arrival
+47:08/05/22:2022 08:47:55 PM - INFO -Google_Search_Home_Page : pickup a way
+47:08/05/22:2022 08:47:56 PM - INFO -Google_Search_Home_Page : choose number customers
+47:08/05/22:2022 08:47:56 PM - INFO -Google_Search_Home_Page : pick up a date
+48:08/05/22:2022 08:48:00 PM - INFO -Google_Search_Home_Page : transfering to google search result page
+48:08/05/22:2022 08:48:00 PM - INFO -Google_Search_Result_Page : Click on stops button
+48:08/05/22:2022 08:48:04 PM - INFO -Google_Search_Result_Page : click on 2 stops searching
+48:08/05/22:2022 08:48:08 PM - INFO -Google_Search_Result_Page : click on non stop searching
+48:08/05/22:2022 08:48:11 PM - INFO -Google_Search_Result_Page : click on any stops searching
+48:08/05/22:2022 08:48:15 PM - INFO -Google_Search_Result_Page : click on 1 stop searching
+48:08/05/22:2022 08:48:18 PM - INFO -Google_Search_Result_Page : click on clear stop
+48:08/05/22:2022 08:48:21 PM - INFO -Google_Search_Result_Page : click on close pop -up
+48:08/05/22:2022 08:48:24 PM - INFO -Google_Search_Result_Page : we are going to see more flights yeah
+36:08/05/22:2022 10:36:25 PM - INFO -TestGoogleSearch : go to google search home page
+36:08/05/22:2022 10:36:25 PM - INFO -TestGoogleSearch : go to google search flight result
+36:08/05/22:2022 10:36:25 PM - INFO -Google_Search_Home_Page : select departure
+36:08/05/22:2022 10:36:32 PM - INFO -Google_Search_Home_Page : select arrival
+36:08/05/22:2022 10:36:38 PM - INFO -Google_Search_Home_Page : pickup a way
+36:08/05/22:2022 10:36:38 PM - INFO -Google_Search_Home_Page : choose number customers
+36:08/05/22:2022 10:36:39 PM - INFO -Google_Search_Home_Page : pick up a date
+36:08/05/22:2022 10:36:43 PM - INFO -Google_Search_Home_Page : transfering to google search result page
+36:08/05/22:2022 10:36:44 PM - INFO -Google_Search_Result_Page : Click on stops button
+36:08/05/22:2022 10:36:48 PM - INFO -Google_Search_Result_Page : click on 2 stops searching
+36:08/05/22:2022 10:36:52 PM - INFO -Google_Search_Result_Page : click on non stop searching
+36:08/05/22:2022 10:36:55 PM - INFO -Google_Search_Result_Page : click on any stops searching
+36:08/05/22:2022 10:36:58 PM - INFO -Google_Search_Result_Page : click on 1 stop searching
+37:08/05/22:2022 10:37:01 PM - INFO -Google_Search_Result_Page : click on clear stop
+37:08/05/22:2022 10:37:04 PM - INFO -Google_Search_Result_Page : click on close pop -up
+37:08/05/22:2022 10:37:08 PM - INFO -Google_Search_Result_Page : we are going to see more flights yeah
+55:08/07/22:2022 07:55:28 PM - INFO -TestGoogleSearch : go to google search home page
+55:08/07/22:2022 07:55:28 PM - INFO -TestGoogleSearch : go to google search flight result
+55:08/07/22:2022 07:55:28 PM - INFO -Google_Search_Home_Page : select departure
+55:08/07/22:2022 07:55:35 PM - INFO -Google_Search_Home_Page : select arrival
+55:08/07/22:2022 07:55:41 PM - INFO -Google_Search_Home_Page : pickup a way
+55:08/07/22:2022 07:55:42 PM - INFO -Google_Search_Home_Page : choose number customers
+55:08/07/22:2022 07:55:42 PM - INFO -Google_Search_Home_Page : pick up a date
+55:08/07/22:2022 07:55:46 PM - INFO -Google_Search_Home_Page : transfering to google search result page
+55:08/07/22:2022 07:55:46 PM - INFO -Google_Search_Result_Page : Click on stops button
+55:08/07/22:2022 07:55:51 PM - INFO -Google_Search_Result_Page : click on 2 stops searching
+55:08/07/22:2022 07:55:55 PM - INFO -Google_Search_Result_Page : click on non stop searching
+55:08/07/22:2022 07:55:58 PM - INFO -Google_Search_Result_Page : click on any stops searching
+56:08/07/22:2022 07:56:01 PM - INFO -Google_Search_Result_Page : click on 1 stop searching
+56:08/07/22:2022 07:56:04 PM - INFO -Google_Search_Result_Page : click on clear stop
+56:08/07/22:2022 07:56:08 PM - INFO -Google_Search_Result_Page : click on close pop -up
+56:08/07/22:2022 07:56:11 PM - INFO -Google_Search_Result_Page : we are going to see more flights yeah
